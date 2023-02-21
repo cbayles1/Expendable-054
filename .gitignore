@@ -128,12 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.wav
-.ogg
-.dat
+*.wav
+*.ogg
+*.dat
+*.ttf
 .vscode/
 executables/
 musicWavs/
 audio/
 data/
-.ttf
